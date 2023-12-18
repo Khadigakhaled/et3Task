@@ -1,4 +1,4 @@
-# et3Task
+# problem defintion
 
 Problem 1: extracting all images in folders and subfolders into one destination folder and removing all prefix in the images name. Then, generating a csv report file to save the 
 image name, size and last time the image was modified.
